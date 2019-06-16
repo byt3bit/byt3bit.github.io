@@ -3,9 +3,12 @@
 title: Arnab Roy
 
 
-
 #Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - publication.md
+  - about.md
