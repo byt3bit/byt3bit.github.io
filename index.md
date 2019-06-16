@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I am senior research associate at the University of Bristol, working on symmetric-key cryptography.
+I am senior research associate at the University of Bristol, working mainly on symmetric-key cryptography.
 
 ## Research
 
