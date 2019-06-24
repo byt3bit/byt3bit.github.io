@@ -14,7 +14,7 @@ The specification submitted to the NIST is available [here](https://csrc.nist.go
 
 2. _Feistel Structures for MPC, and More_ <br/>
 Martin R. Albrecht, Lorenzo Grassi, Léo Perrin, Sebastian Ramacher, Christian Rechberger, Dragos Rotaru, Arnab Roy, Markus Schofnegger<br/>
-Preprint is available [here](https://eprint.iacr.org/2019/397)
+(Accepted at the ESORICS 2019) Preprint is available [here](https://eprint.iacr.org/2019/397)
 
 3. _Starkad and Poseidon: New Hash Functions for Zero Knowledge Proof Systems_ <br/>
 Lorenzo Grassi, Daniel Kales, Dmitry Khovratovich, Christian Rechberger, Arnab Roy, Markus Schofnegger  
