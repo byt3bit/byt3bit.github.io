@@ -14,7 +14,7 @@ The specification submitted to the NIST is available [here](https://csrc.nist.go
 
 2. _Forkcipher: a New Primitive for Authenticated Encryption of Very Short Messages_ <br/>
 Elena Andreeva, Virginie Lallemand, Antoon Prunal, Reza Reyhanitabar, Arnab Roy, Damian Vizar<br/>
-(Accepted at the Asiacrypt 2019)
+(Accepted at the Asiacrypt 2019) Full version is available [here](https://eprint.iacr.org/2019/1004)
 
 3. _Feistel Structures for MPC, and More_ <br/>
 Martin R. Albrecht, Lorenzo Grassi, Léo Perrin, Sebastian Ramacher, Christian Rechberger, Dragos Rotaru, Arnab Roy, Markus Schofnegger<br/>
