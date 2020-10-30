@@ -25,6 +25,4 @@ More information about these works and my publications can be found [here](https
 
 arnab.roy [at] aau.at
 
-Alpen-Adria-Universität Klagenfurt 
-
-Austria    
+Alpen-Adria-Universität Klagenfurt, Austria    
