@@ -1,8 +1,9 @@
 ---
 layout: home
 ---
+I am a lecturer at the Alpen-Adria-University Klagenfurt. 
 
-I am senior research associate at the University of Bristol, working mainly on symmetric-key cryptography.
+Prior to this I was a senior research associate at the University of Bristol .
 
 ## Research
 
