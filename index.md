@@ -23,9 +23,7 @@ More information about these works and my publications can be found [here](https
 
 ## Contact
 
-arnab.roy [at] bristol.ac.uk
+arnab.roy [at] aau.at
 
-University of Bristol    
-Merchant Venturers Building  
-Woodland Road, BS8 1UB  
-United Kingdom 
+Alpen-Adria-Universität Klagenfurt 
+Austria    
