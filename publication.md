@@ -17,12 +17,9 @@ Elena Andreeva, Virginie Lallemand, Antoon Prunal, Reza Reyhanitabar, Arnab Roy,
 (Accepted at the Asiacrypt 2019) Full version is available [here](https://eprint.iacr.org/2019/1004)
 
 3. _Feistel Structures for MPC, and More_ <br/>
-Martin R. Albrecht, Lorenzo Grassi, Léo Perrin, Sebastian Ramacher, Christian Rechberger, Dragos Rotaru, Arnab Roy, Markus Schofnegger<br/>
+Martin R. Albrecht, Lorenzo Grassi, Léo Perrin, Sebastian Ramacher, Christian Rechberger, Dragos Rotaru, Arnab Roy, Markus Schofnegger<br/>
 (Accepted at the ESORICS 2019) Preprint is available [here](https://eprint.iacr.org/2019/397)
 
 4. _Starkad and Poseidon: New Hash Functions for Zero Knowledge Proof Systems_ <br/>
 Lorenzo Grassi, Daniel Kales, Dmitry Khovratovich, Christian Rechberger, Arnab Roy, Markus Schofnegger  
 Preprint is available [here](https://eprint.iacr.org/2019/458)
-
-5. _MI(L|V) is optimal, MI(V|L) is better and KW(V|L) is best_<br/>
-Yan Yan, Arnab Roy, Elisabeth Oswald
