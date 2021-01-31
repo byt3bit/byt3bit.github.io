@@ -6,7 +6,7 @@ description: #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   address: >
     <!--- <p>555 your office number</p>
     <p>123 your address street</p>
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a lecturer at the Alpen-Adria0Unviersity Klagenfurt Austria.
+I am a lecturer at the Alpen-Adria-Unviersity Klagenfurt Austria.
 
 I was a senior research associate at the Unviersity of Bristol, UK in the cryptography research group from 2017 to 2019. Prior to that
 I was postdoc researcher at the Technical University of Denmark in the cyber-security group.
