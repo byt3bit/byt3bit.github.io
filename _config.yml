@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Arnab Roy
-description: #<a href="https://www.uibk.ac.at/de/"> University of Innsbruck </a>, Security and Privacy Lab #subtitle | affiliations | motto
+description: <a href="https://informationsecurity.uibk.ac.at"> Security and Privacy Lab </a> | University of Innsbruck #subtitle | affiliations | motto
 
 baseurl: #/gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
