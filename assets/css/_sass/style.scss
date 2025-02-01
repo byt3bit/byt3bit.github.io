@@ -31,9 +31,11 @@ h1,h2,h3,h4,h5,h6 {
 
 a {
   color: $brand-color;
-  text-decoration: none;
+
   &:hover{
     color: $text-color;
+    text-decoration: underline;
+    text-decoration-color: $brand-color;
 
     @media (prefers-color-scheme: dark) {
       color: $text-color-dark;
