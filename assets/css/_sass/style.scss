@@ -34,8 +34,7 @@ a {
 
   &:hover{
     color: $text-color;
-    text-decoration: underline;
-    text-decoration-color: $brand-color;
+    
 
     @media (prefers-color-scheme: dark) {
       color: $text-color-dark;
