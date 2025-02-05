@@ -32,7 +32,7 @@ My academic background is in Mathematics. I received master's (M.Sc from the Ind
 
 ##### NEW
 
-- Paper on Gröbner basis cryptanalysis is accepted at Eurocrypt 2025 
+- Paper on algebraic cryptanalysis is accepted at Eurocrypt 2025 
 - I organised research workshop [ALPSY](https://alpsy-workshop.github.io) in January (2025), on special topics in cryptography at Obergurgl, Austria
 
 ##### Scientific Community Activities
