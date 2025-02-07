@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: 
 nav: true # comment in case you don't want this page
 nav_order: 2 # comment in case you don't want this page
