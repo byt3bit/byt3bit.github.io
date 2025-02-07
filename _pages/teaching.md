@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: 
 nav: true # comment in case you don't want this page
 nav_order: 6 # comment in case you don't want this page
