@@ -23,7 +23,7 @@ I am a tenure-track assistant professor at the University of Innsbruck ([Departm
 
 **Research Interests** My research interests lie in the area of cryptography and its applications. I am interested in designing cryptographic primitives, cryptanalysis, and applications of cryptography in security and privacy.
 
-I was a lecturer (2020 - 2023) at the Alpen-Adria Unviersity Klagenfurt in the Cybersecurity Research group led by [Prof. Elisabeth Oswald](https://www.aau.at/team/oswald-elisabeth/). Prior to that, I was a senior research associate (09/2017 - 2019) at the Unviersity of Bristol, UK in the cryptography research group, and a postdoc researcher (2014 - 2017) at the Technical University of Denmark in the Cybersecurity group hosted by [Prof. Christian Rechberger](https://www.iaik.tugraz.at/person/christian-rechberger/).
+I was a lecturer (2020 - 2023) at the Alpen-Adria Unviersity Klagenfurt in the Cybersecurity Research group led by [Prof. Elisabeth Oswald](https://www.aau.at/team/oswald-elisabeth/). Prior to that, I was a senior research associate (2017 - 2019) at the Unviersity of Bristol, UK in the cryptography research group, and a postdoc researcher (2014 - 2017) at the Technical University of Denmark in the Cybersecurity group hosted by [Prof. Christian Rechberger](https://www.iaik.tugraz.at/person/christian-rechberger/).
 
 I received PhD in Computer Science from the University of Luxembourg in 2014. My doctoral research topic was security aspects of symmetric-key primitives and my thesis supervisor was [Prof. Alex Biryukov](https://wwwen.uni.lu/recherche/fstm/dcs/membres/alex_biryukov).
 
