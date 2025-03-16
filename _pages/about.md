@@ -34,6 +34,7 @@ My academic background is in Mathematics. I received master's (M.Sc from the Ind
 
 - Paper on algebraic cryptanalysis is accepted at Eurocrypt 2025 
 - I organised research workshop [ALPSY](https://alpsy-workshop.github.io) in January (2025), on special topics in cryptography at Obergurgl, Austria
+- I gave an invited talk at the [ASK 2024](https://askworkshop.github.io/ask2024/) (Asian-workshop on Symmetric Key Cryptography)
 - Paper on a new algebraic system for cryptographic permutation will appear at SAC 2024
 - I serve as a PC member of ACNS 2025
 - Paper on side-channel MI-based leakage certification is accepted at CRYPTO 2024.
