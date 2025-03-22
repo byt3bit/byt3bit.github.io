@@ -48,7 +48,7 @@ My academic background is in Mathematics. I received master's (M.Sc from the Ind
 - ***External reviewer*** Asiacrypt (2021, 2020, 2018, 2012), FSE (2020, 2016, 2013, 2012), SAC 2020, Eurocrypt (2019, 2015), Crypto (2018, 2011), ACNS (2017, 2014), CT-RSA 2015, CHES 2013.
 
 ##### Contact
-The best way to reach me is via email: firstname.lastname [at] uibk [dot] ac [dot] at
+The best way to reach me is via email: firstname [dot] lastname [at] uibk [dot] ac [dot] at
 
 <p style="font-family:'Courier'">Office: ICT 3N01 <br> Technikerstrasse 21A <br>University of Innsbruck</p>
 
