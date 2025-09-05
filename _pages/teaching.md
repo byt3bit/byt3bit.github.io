@@ -9,11 +9,11 @@ nav_order: 6 # comment in case you don't want this page
 
 ##### University of Innsbruck, Austria
 
-- Summer 25: Applied Cryptography (co-taught with Luca Campa)
-- Summer 25: Secure and Private Computation
-- Winter 24-25: Cryptography
-- Summer 24: Secure and Private Computation 
-- Winter 23-24: Cryptography 
+- Applied Cryptography (co-taught with Luca Campa)  [Summer 25]
+- Secure and Private Computation [Summer 25]
+- Cryptography  [Winter 24-25]
+- Secure and Private Computation [Summer 24]
+- Cryptography  [Winter 23-24]
 
 ##### University of Klagenfurt, Austria
 
