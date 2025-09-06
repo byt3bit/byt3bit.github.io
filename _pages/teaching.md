@@ -17,8 +17,8 @@ nav_order: 6 # comment in case you don't want this page
 
 ##### University of Klagenfurt, Austria
 
-- Summer 23: Introduction to Cybersecurity (co-taught with Elisabeth Oswald)
-- Summer 22: Advanced Topics in Cybersecurity
-- Winter 21-22: Introduction to Cybersecurity (co-taught with Elisabeth Oswald)
-- Summer 22: Advanced Topics in Cybersecurity
-- Winter 20-21: Introduction to Cybersecurity (co-taught with Elisabeth Oswald)
+- Introduction to Cybersecurity (co-taught with Elisabeth Oswald) [Summer 23]
+- Advanced Topics in Cybersecurity [Summer 22]
+- Introduction to Cybersecurity (co-taught with Elisabeth Oswald) [Winter 21-22]
+- Advanced Topics in Cybersecurity [Summer 22]
+- Introduction to Cybersecurity (co-taught with Elisabeth Oswald) [Winter 20-21]
