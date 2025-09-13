@@ -168,12 +168,12 @@
       {% endif %}
       {% if entry.url %}
         {% if entry.url contains '://' %}
-          <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-link"></i> URL</a>
+          <a href="{{ entry.url }}" class="btn btn-sm z-depth-0" role="button"><i class="fa fa-external-link"></i> URL</a>
         {% endif %}
       {% endif %}
       {% if entry.pdf %}
         {% if entry.pdf contains '://' %}
-          <a href="{{ entry.pdf }}" class="pdf btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-file-pdf"></i> PDF</a>
+          <a href="{{ entry.pdf }}" class="pdf btn btn-sm z-depth-0" role="button"><i class="fa fa-download"></i></a>
         {% else %}
           <!-- <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="pdf btn btn-sm z-depth-0" role="button">PDF</a> -->
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="pdf btn btn-sm z-depth-0" role="button"><i class="fa-solid fa-file-pdf"></i> PDF</a>
