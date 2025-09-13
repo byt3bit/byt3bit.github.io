@@ -1049,8 +1049,8 @@ footer.sticky-bottom {
           border-color: var(--global-highlight-color);
         }
         a.pdf.btn {
-          background-color: PaleVioletRed;//SteelBlue;
-          color: white; //var(--global-text-color);
+          background-color: white; //PaleVioletRed;//SteelBlue;
+          color: var(--global-theme-color);
           //border: 1px solid var(--global-text-color);
           padding-left: 0.5rem; //1rem;
           padding-right: 0.5rem; //1rem;
@@ -1059,8 +1059,8 @@ footer.sticky-bottom {
           margin-left: 0;
 
           &:hover {
-            color: var(--global-text-color); //var(--global-theme-color);
-            border-color: var(--global-text-color); //var(--global-theme-color);
+              color: blue; //var(--global-text-color); //var(--global-theme-color);
+            //border-color: var(--global-text-color); //var(--global-theme-color);
             background-color: white;
           }
         }
