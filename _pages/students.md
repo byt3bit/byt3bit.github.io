@@ -10,7 +10,7 @@ nav_order: 3 # comment in case you don't want this page
 
 ##### PhD students
 
-- [Luca Campa](https://lucacampa.it) (2024 - present) 
+- [Luca Campa](https://lucacampa.it), University of Innsbruck (2024 - present) 
 - Matthias Steiner, University of Klagenfurt (joint supervision with Elisabeth Oswald)
 - Aakash Chowdhury, University of Klagenfurt (joint supervision with Elisabeth Oswald)
 
