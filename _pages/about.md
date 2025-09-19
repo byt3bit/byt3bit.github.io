@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page -->
 
 I am a tenure-track assistant professor at the University of Innsbruck ([Department of Computer Science](https://www.uibk.ac.at/informatik/index.html.de)).  
 
-**Research Interests** My research interests lie in the area of cryptography and its applications. I am interested in designing cryptographic primitives, cryptanalysis, and applications of cryptography in security and privacy.
+My research interests lie in the area of cryptography. I am interested in the design principles of  cryptographic functions, and cryptanalysis. My current research often takes me to the realms of (computational) algebraic geometry and algebraic number theory. 
 
 I was a lecturer at the Alpen-Adria Unviersity Klagenfurt in the Cybersecurity Research group led by [Prof. Elisabeth Oswald](https://www.aau.at/team/oswald-elisabeth/). Prior to that, I was a senior research associate (2017 - 2019) at the Unviersity of Bristol, UK in the cryptography research group, and a postdoc researcher (2014 - 2017) at the Technical University of Denmark in the Cybersecurity group hosted by [Prof. Christian Rechberger](https://www.iaik.tugraz.at/person/christian-rechberger/).
 
