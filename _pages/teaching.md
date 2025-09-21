@@ -9,7 +9,8 @@ nav_order: 6 # comment in case you don't want this page
 
 ##### University of Innsbruck, Austria
 
-- Applied Cryptography (co-taught with Luca Campa)  [Summer 25]
+- Cryptanalysis [Winter 25-26]
+- Applied Cryptography (co-taught with Luca Campa)  [Summer 25, Winter 25-26]
 - Secure and Private Computation [Summer 25]
 - Cryptography  [Winter 24-25]
 - Secure and Private Computation [Summer 24]
