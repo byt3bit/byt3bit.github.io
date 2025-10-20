@@ -41,7 +41,7 @@ My academic background is in Mathematics. I received master's (M.Sc from the Ind
 
 ##### Scientific Community Activities
 
-- ***Program committees*** ACNS 2025, CT-RSA (2024, 2022), SCN 2022, Indocrypt 2020, PKC 2020, FSE (ToSC) 2019.
+- ***Program committees*** [EuroS&P 2026](https://eurosp2026.ieee-security.org/index.html), CT-RSA ([2026](https://conference.wsu.edu/ct-rsa-2026/), 2024, 2022), ACNS 2025, SCN 2022, Indocrypt 2020, PKC 2020, FSE (ToSC) 2019.
 
 - ***Organizer*** [ALPSY 2025](https://alpsy-workshop.github.io); [ALPSY 2024](https://alpsy-informatik.uibk.ac.at); [SILC Workshop](https://www.esat.kuleuven.be/cosic/events/silc2020/index.html) (co-located with Eurocrypt 21)
 
