@@ -16,6 +16,7 @@ nav_order: 3 # comment in case you don't want this page
 
 
 ##### Master's students
-- [Luca Campa](https://lucacampa.it)
+- Filippo Merlo, University of Udine, Italy 
+- [Luca Campa](https://lucacampa.it), University of Udine, Italy
 - [Stefano Trevisani](https://informatics.tuwien.ac.at/people/stefano-trevisani) (now PhD student at TU Wien)
-- Ferdinand Sauer (joint supervision with Elena Andreeva)
+- Ferdinand Sauer (joint supervision with Elena Andreeva), KIT, Germany
