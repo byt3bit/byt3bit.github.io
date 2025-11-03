@@ -15,7 +15,7 @@ nav_order: 3 # comment in case you don't want this page
 - Aakash Chowdhury, University of Klagenfurt (joint supervision with Elisabeth Oswald)
 
 
-##### Master's students
+##### Master's (thesis) students
 - Filippo Merlo, University of Udine, Italy 
 - [Luca Campa](https://lucacampa.it), University of Udine, Italy
 - [Stefano Trevisani](https://informatics.tuwien.ac.at/people/stefano-trevisani) (now PhD student at TU Wien)
