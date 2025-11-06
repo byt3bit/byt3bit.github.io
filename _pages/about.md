@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page -->
 ---
 
-I am a tenure-track assistant professor at the[Department of Computer Science](https://www.uibk.ac.at/informatik/index.html.de) of the University of Innsbruck.  
+I am a tenure-track assistant professor at the University of Innsbruck ([Department of Computer Science](https://www.uibk.ac.at/informatik/index.html.de)).  
 
 My research interests lie in the area of cryptography. I am interested in the design principles of  cryptographic functions, and cryptanalysis. My current research often takes me to the realms of (computational) algebraic geometry and algebraic number theory. 
 
