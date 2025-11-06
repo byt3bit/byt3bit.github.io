@@ -31,7 +31,7 @@ My academic background is in Mathematics. I received master's (M.Sc from the Ind
 
 
 ##### NEW
-- I serve as a PC member of [CT-RSA 2026](https://conference.wsu.edu/ct-rsa-2026/) and [EuroS&P 2026] (https://eurosp2026.ieee-security.org/index.html) 
+- I serve as a PC member of [CT-RSA 2026](https://conference.wsu.edu/ct-rsa-2026/) and [EuroS&P 2026] (https://eurosp2026.ieee-security.org) 
 - Paper on algebraic cryptanalysis is accepted at Eurocrypt 2025 
 - I organised research workshop [ALPSY](https://alpsy-workshop.github.io) in January (2025), on special topics in cryptography at Obergurgl, Austria
 - Paper on a new algebraic system for cryptographic permutation will appear at SAC 2024
