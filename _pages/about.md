@@ -50,5 +50,5 @@ My academic background is in Mathematics. I received master's (M.Sc from the Ind
 The best way to reach me is via email: firstname [dot] lastname [at] uibk [dot] ac [dot] at 
 (firstname and lastname here must be replaced with my firstname and lastname)
 
-<p style="font-family:'Courier'">Office: ICT 3N01 <br> Technikerstrasse 21A <br>University of Innsbruck</p>
+<p style="font-family:'Courier'">Office: ICT 3M12 <br> Technikerstrasse 21A <br>University of Innsbruck</p>
 
