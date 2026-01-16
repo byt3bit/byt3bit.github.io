@@ -11,10 +11,9 @@ nav_order: 6 # comment in case you don't want this page
 
 - Cryptanalysis [Winter 25-26]
 - Applied Cryptography (co-taught with Luca Campa)  [Summer 25, Winter 25-26]
-- Secure and Private Computation [Summer 25]
-- Cryptography  [Winter 24-25]
-- Secure and Private Computation [Summer 24]
-- Cryptography  [Winter 23-24]
+- Secure and Private Computation [Summer 24, Summer 25]
+- Cryptography  [Winter 23-24, Winter 24-25]
+
 
 ##### University of Klagenfurt, Austria
 
