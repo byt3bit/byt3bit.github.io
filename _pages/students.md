@@ -16,6 +16,7 @@ nav_order: 3 # comment in case you don't want this page
 
 
 ##### Master's (thesis) students
+- Massimo Fumianu, University of Trento, Italy (2025-26)
 - Filippo Merlo, University of Udine, Italy (2025) 
 - [Luca Campa](https://lucacampa.it) (now PhD student at UIBK)
 - [Stefano Trevisani](https://informatics.tuwien.ac.at/people/stefano-trevisani) (now PhD student at TU Wien)
