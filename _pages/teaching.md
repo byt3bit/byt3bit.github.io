@@ -7,6 +7,8 @@ nav: true # comment in case you don't want this page
 nav_order: 6 # comment in case you don't want this page
 ---
 
+"Good teaching is one-fourth preparation and three-fourths theater." — Gail Godwin
+
 ##### University of Innsbruck, Austria
 
 - Cryptanalysis [Winter 25-26]
