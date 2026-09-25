@@ -8,8 +8,16 @@ nav_order: 2 # comment in case you don't want this page
 ---
 
 <!-- _pages/publications.md -->
+<!-- "Nothing is more practical than a good theory" -->
+### preprints/manuscripts
+
+<div class="publications">
+  {% bibliography --query @*[preprint=yes]* %}	
+</div>
 
 <!-- Bibsearch Feature -->
+
+### conference and journal articles
 
 The peer-reviewed publications are listed in reverse chronological order. More bibliographical information about my publications can be found on my [google scholar](https://scholar.google.com/citations?user=1y6FMuYAAAAJ&hl=en) and [dblp](https://dblp.org/pid/88/4138-5.html) pages.
 
