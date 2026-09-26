@@ -24,5 +24,5 @@ The peer-reviewed publications are listed in reverse chronological order. More b
 {% include publications/bib_search.liquid %}
 
 <div class="publications">
-  {% bibliography %}	
+  {% bibliography --query @*[preprint=no]*%}	
 </div>
