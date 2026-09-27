@@ -26,6 +26,7 @@ $max-content-width: 100px !default;
  $pink-color: #f92080 !default;
  $pink-color-light: #ffdddd !default;
  $yellow-color: #efcc00 !default;
+ $papertitle-color: #00538C !default;
  
  $grey-color: #828282 !default;
  $grey-color-light: color.adjust($grey-color, $lightness: 40%);
@@ -998,7 +999,8 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+          font-weight: bolder;
+	  color: #00538C;
       }
 
       .author {
